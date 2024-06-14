@@ -1,3 +1,5 @@
+vless://04f6dd65-2b54-4344-a381-dbe1b6d8ac04@185.146.173.134:80?encryption=none&host=V2ray.motorcycles.Elmahstyle.ir&path=%2F%40ELiV2RAY-%40ELiV2RAY-%40ELiV2RAY%2CV2ray.motorcycles.Elmahstyle.ir%3Fed%3D2048&type=ws#%F0%9F%87%A8%F0%9F%87%B5%40ELiV2Ray
+vless://-Telegram-id-ELiV2ray-@188.114.98.224:80?encryption=none&host=eli.v2ray.motorcycles&path=%2FV2ray.vl%3Fed%3D2048&type=ws#%F0%9F%87%B1%F0%9F%87%B9%40ELiV2Ray
 vless://5bdf790f-0af2-4481-a624-41b66e7e3489@c.88981401.xyz:443?alpn=http%2F1.1&encryption=none&host=cdn.ircp.online&path=%2F%40ln2ray%3Fed%3D2560&security=tls&sni=cdn.ircp.online&type=ws#proxy
 vless://Telegram-ipV2Ray-zqo@185.146.173.58:2052?path=%2FTelegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=Ch.1.V2rayV2ray-_-_-V2ray.irantech.Org.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
