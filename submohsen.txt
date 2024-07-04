@@ -7,6 +7,17 @@ vless://Jon---V2RAXX@2.189.59.6:443?mode=gun&security=tls&encryption=none&alpn=h
 vless://Tel_VPNCUSTOMIZE@zula.ir:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
 vless://--V2RAXX@2.189.59.6:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=%40V2RAXX-TEL%40V2RAXX-TEL--%40V2RAXX-TEL--%40V2RAXX-TEL&sni=v2raxx-all.amalfatm.ir.#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+
+
+vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMGZiNzg2Ny05NWFkLTRlYWYtOTlmMS0yMjI1NWJlYjYyNTEiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIyMDUzIiwicHMiOiJWMnJheU5HIHggfCDZh9mF2Ycg2KfZvtix2KfYqtmI2LHZh9inIiwic2N5IjoiYXV0byIsInNuaSI6InN6b1dRRGRnclRXeGVhTDBmRmF6TjFEVmloUjVDaHM0cnQxQmtGSWc5VE0yeFZKNUYucHJvdG9uaXguaXIuIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMGZiNzg2Ny05NWFkLTRlYWYtOTlmMS0yMjI1NWJlYjYyNTEiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIyMDUzIiwicHMiOiJWMnJheU5HIHggfCDZh9mF2Ycg2KfZvtix2KfYqtmI2LHZh9inIiwic2N5IjoiYXV0byIsInNuaSI6IjFTMHRicGN5c1RWektubmZrYmF4SzhteWthaVlZaERySDJqWUdydjJxNXpiQ3pBamwucHJvdG9uaXguaXIuIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
+
+vless://Jon---V2RAXX@2.189.59.6:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=%40V2RAXX-TEL%40V2RAXX-TEL--%40V2RAXX-TEL--%40V2RAXX-TEL&sni=v2raxx-all.amalfatm.ir.#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+
+vless://Tel_VPNCUSTOMIZE@zula.ir:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+
+vless://--V2RAXX@2.189.59.6:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=%40V2RAXX-TEL%40V2RAXX-TEL--%40V2RAXX-TEL--%40V2RAXX-TEL&sni=v2raxx-all.amalfatm.ir.#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 vless://20948265-ea02-416a-8ce4-3db7a80cc3f4@185.146.173.58:8080?path=%2Fservernet&security=none&encryption=none&host=dcc6.servernet.fun.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
 vless://Join_bede_VPNCUSTOMIZE@zula.ir:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
