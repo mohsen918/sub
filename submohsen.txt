@@ -1,3 +1,20 @@
+
+vless://f949cc8f-9d1a-4d56-9c6e-3daec4c92010@www.parsvds.ir:80?path=VPNCUSTOMIZE%3Fed%3D8080&security=none&encryption=none&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+
+vless://59b82b80-87f8-4041-b63b-d4e38bc10ad9@104.31.16.104:80?path=%2F&security=none&encryption=none&host=ftp.debian.org.www.speedtest.net.dnschecker.heydasproject.name.ng.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+
+vless://99220cd7-d674-4c91-b1bd-8297d61c92fd@104.16.11.133:80?path=%2F%40Vpn_Mikey%D8%8C%40Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+
+vless://2a9bd227-bef2-4fea-a153-7e8423a07277@104.17.47.75:8080?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&security=none&encryption=none&host=join-to.vmessorg.Community.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+
+vless://2a9bd227-bef2-4fea-a153-7e8423a07277@104.18.101.41:8080?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&security=none&encryption=none&host=join-to.vmessorg.Community.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+
+vless://0fb84311-ab76-4948-b9ca-68b6dc7b52e6@185.146.173.58:2052?path=%2FMMad%3Fed%3D2560&security=none&encryption=none&host=xn--fn67-zula-3e8ni2tj0k320e004ge7n.Palmex.Ir.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+
+vless://2a9bd227-bef2-4fea-a153-7e8423a07277@104.16.225.78:8080?path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8080&security=none&encryption=none&host=join-to.vmessorg.Community.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+
+vless://a27d99db-dace-480a-a347-f25beaeecd33@185.146.173.58:2052?path=%2FMMad%3Fed%3D2560&security=none&encryption=none&host=xn--de67-zula-3e8ni2tj0k320e004ge7n.Palmex.Ir.&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.arizona.edu:443?path=%2F&security=tls&encryption=none&host=fraud.chase&type=ws&sni=www.Arizona.edu#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
 vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?path=vless-ws%2F%3Fed&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=random&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
