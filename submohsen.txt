@@ -39,3 +39,5 @@ vless://935c1cbd-b6da-41a4-8944-c05ed55e1e95@unlimiteddev-vpn.sabadyt.ir:8880?pa
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@104.16.16.16:443?path=%2FTelegram-XV2ry2%3Fed%3D512&security=tls&encryption=none&host=Telegram---XV2ray---XV2ray---XV2ray---XV2ray---XV2ray.Pages.dev&type=ws&sni=Pages.dev#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
 vless://bf94bbaa-5672-487e-9523-fe936bec7fc7@www.parspack.com:8880?path=%2FSHHPROXY%3Fed%3D2048&security=none&encryption=none&host=SHHproxy--shhPROXY--SHHproxy.PlusFood.org.&type=httpupgrade#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
+
+vless://fde4960e-fc50-54f4-95a2-81578fea7120@vfarid24.mohsen91818.woRKeRs.dev:2087?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=vfarid24.mohsen91818.woRKeRs.dev&fp=chrome&type=ws&sni=vfarid24.mohsen91818.woRKeRs.dev#1-vless-worker-vfarid24.mohsen91818.woRKeRs.dev
