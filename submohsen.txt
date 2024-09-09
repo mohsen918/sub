@@ -1,3 +1,6 @@
+hysteria2://%40azadi_az_inja_migzare@a3.dgi000.store:443?obfs=salamander&obfs-password=%40azadi_az_inja_migzare&sni=a3.dgi000.store#%F0%9F%87%A6%F0%9F%87%BA%20AUS
+hysteria2://%40azadi_az_inja_migzare@a1.dgi000.store:443?obfs=salamander&obfs-password=%40azadi_az_inja_migzare&sni=a1.dgi000.store#%F0%9F%87%A8%F0%9F%87%AD%20CHE%201
+hysteria2://%40azadi_az_inja_migzare@a2.dgi000.store:443?obfs=salamander&obfs-password=%40azadi_az_inja_migzare&sni=a2.dgi000.store#%F0%9F%87%A8%F0%9F%87%AD%20CHE%202
 vless://9e3456fa-bcce-44b6-b91e-22c324a2f12f@SpeedTest.net:443?security=tls&encryption=none&type=ws&fp=chrome&sni=speedtest.net&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v13.com#telegram ☂️ DailyV2ry
 vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.com#telegram ☂️ DailyV2ry
 vless://349ece52-713d-4955-b8c7-5874b4906235@SpeedTest.net:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v15.com#telegram ☂️ DailyV2ry
