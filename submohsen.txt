@@ -1,4 +1,7 @@
 
+
+vless://8ae2c48b-35fa-4d46-8bc2-b446930bfef9@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#@UnlimitedDev
+
 vless://92da355a-c002-44d2-9276-8f7bee291dd4@104.18.12.229:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg37.pages.dev&type=ws&sni=pardazeshvpn-tg37.pages.dev#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
 vless://c5049393-6f27-4265-9691-8c9d963fa32b@79.127.70.82:8443?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
