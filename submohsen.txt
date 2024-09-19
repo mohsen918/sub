@@ -1,3 +1,5 @@
+vless://7bd66866-fbf4-4d10-a2cb-7188f37eaff7@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#@UnlimitedDev
+
 trojan://auto@104.26.12.54:443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
 trojan://auto@162.159.136.232:8443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
