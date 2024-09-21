@@ -1,3 +1,1117 @@
+{
+    "remarks": "💦 BPB F - Best Ping 💥",
+    "log": {
+        "loglevel": "warning"
+    },
+    "dns": {
+        "hosts": {
+            "domain:googleapis.cn": [
+                "googleapis.com"
+            ]
+        },
+        "servers": [
+            "https://94.140.14.14/dns-query"
+        ],
+        "tag": "dns"
+    },
+    "inbounds": [
+        {
+            "port": 2080,
+            "protocol": "socks",
+            "settings": {
+                "auth": "noauth",
+                "udp": true,
+                "userLevel": 8
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls"
+                ],
+                "enabled": true,
+                "routeOnly": true
+            },
+            "tag": "socks-in"
+        },
+        {
+            "port": 2081,
+            "protocol": "http",
+            "settings": {
+                "auth": "noauth",
+                "udp": true,
+                "userLevel": 8
+            },
+            "sniffing": {
+                "destOverride": [
+                    "http",
+                    "tls"
+                ],
+                "enabled": true,
+                "routeOnly": true
+            },
+            "tag": "http-in"
+        },
+        {
+            "listen": "127.0.0.1",
+            "port": 6450,
+            "protocol": "dokodemo-door",
+            "settings": {
+                "address": "1.1.1.1",
+                "network": "tcp,udp",
+                "port": 53
+            },
+            "tag": "dns-in"
+        }
+    ],
+    "outbounds": [
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "bpb-pages--panel.pages.dev",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "randomized",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "BPB-paGes--Panel.pAges.DEV"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "bpb-pages--panel.pages.dev",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                    },
+                    "path": "/gOFj19JxM2OtHRkX?ed=2560"
+                }
+            },
+            "tag": "prox_1"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "www.speedtest.net",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "randomized",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "bpb-paGes--pAnEL.pAgeS.Dev"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "bpb-pages--panel.pages.dev",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                    },
+                    "path": "/CSHvuvZT1r13UF14?ed=2560"
+                }
+            },
+            "tag": "prox_2"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "188.114.97.3",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "randomized",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "Bpb-pagES--PanEl.PAges.Dev"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "bpb-pages--panel.pages.dev",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                    },
+                    "path": "/3S3v9oFsw5YaT3Eo?ed=2560"
+                }
+            },
+            "tag": "prox_3"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "188.114.96.3",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "randomized",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "BPB-pages--paNeL.PAgEs.deV"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "bpb-pages--panel.pages.dev",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                    },
+                    "path": "/CgAtY3Td2kVKE8t6?ed=2560"
+                }
+            },
+            "tag": "prox_4"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "[2a06:98c1:3121::3]",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "randomized",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "BPb-PAGeS--pANel.pagEs.dEV"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "bpb-pages--panel.pages.dev",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                    },
+                    "path": "/F1qKCYEhCHV5JBkU?ed=2560"
+                }
+            },
+            "tag": "prox_5"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "[2a06:98c1:3120::3]",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "randomized",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "bpb-PAgeS--PAnEl.PagEs.DEv"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "bpb-pages--panel.pages.dev",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                    },
+                    "path": "/LRvdR5qvBFDVvDZ0?ed=2560"
+                }
+            },
+            "tag": "prox_6"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "104.18.153.2",
+                        "port": 443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "randomized",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "bPB-PaGeS--paNEL.PAGes.dEV"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "bpb-pages--panel.pages.dev",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                    },
+                    "path": "/CQceEGJQ1KA0Moxm?ed=2560"
+                }
+            },
+            "tag": "prox_7"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "bpb-pages--panel.pages.dev",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "randomized",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "BpB-PAGEs--PanEL.pAgeS.DEV"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "bpb-pages--panel.pages.dev",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                    },
+                    "path": "/MvVRSNEFcIRogDAr?ed=2560"
+                }
+            },
+            "tag": "prox_8"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "www.speedtest.net",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "randomized",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "BPB-PaGEs--panel.paGES.DEv"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "bpb-pages--panel.pages.dev",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                    },
+                    "path": "/gI88CZEH38VHK4BH?ed=2560"
+                }
+            },
+            "tag": "prox_9"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "188.114.97.3",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "randomized",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "BPB-PAgES--paNEL.pagEs.dev"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "bpb-pages--panel.pages.dev",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                    },
+                    "path": "/l4zvSACZtkj4hi0e?ed=2560"
+                }
+            },
+            "tag": "prox_10"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "188.114.96.3",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "randomized",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "bPB-pagES--pANEL.paGEs.Dev"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "bpb-pages--panel.pages.dev",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                    },
+                    "path": "/TnUoZpaeC2k0mT9u?ed=2560"
+                }
+            },
+            "tag": "prox_11"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "[2a06:98c1:3121::3]",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "randomized",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "BpB-PAGES--PaneL.pAGES.DEV"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "bpb-pages--panel.pages.dev",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                    },
+                    "path": "/xBGVp1fpYvY00lg6?ed=2560"
+                }
+            },
+            "tag": "prox_12"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "[2a06:98c1:3120::3]",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "randomized",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "BPb-PAges--paNEl.pAGES.deV"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "bpb-pages--panel.pages.dev",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                    },
+                    "path": "/HGOltE6CF4rUGnVF?ed=2560"
+                }
+            },
+            "tag": "prox_13"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "104.18.153.2",
+                        "port": 8443,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "randomized",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "bpb-PaGes--PaNEl.PagEs.dEv"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "bpb-pages--panel.pages.dev",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                    },
+                    "path": "/3zY81R73GIFeCDQ9?ed=2560"
+                }
+            },
+            "tag": "prox_14"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "bpb-pages--panel.pages.dev",
+                        "port": 2087,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "randomized",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "bPB-PAges--PaneL.paGes.DEv"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "bpb-pages--panel.pages.dev",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                    },
+                    "path": "/tyK1Vymmnt7ylAlP?ed=2560"
+                }
+            },
+            "tag": "prox_15"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "www.speedtest.net",
+                        "port": 2087,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "randomized",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "bpb-pAGeS--PanEL.PagEs.dev"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "bpb-pages--panel.pages.dev",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                    },
+                    "path": "/L7qOhKBL9tu5bSag?ed=2560"
+                }
+            },
+            "tag": "prox_16"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "188.114.97.3",
+                        "port": 2087,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "randomized",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "bpB-paGEs--PAnEL.PAGeS.DEv"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "bpb-pages--panel.pages.dev",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                    },
+                    "path": "/4ilUE0v8FAkDJbUr?ed=2560"
+                }
+            },
+            "tag": "prox_17"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "188.114.96.3",
+                        "port": 2087,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "randomized",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "BpB-PAGes--paNel.PagES.dEV"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "bpb-pages--panel.pages.dev",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                    },
+                    "path": "/bHoCIly0crXH95zR?ed=2560"
+                }
+            },
+            "tag": "prox_18"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "[2a06:98c1:3121::3]",
+                        "port": 2087,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "randomized",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "BPb-PAgeS--pANel.PaGeS.DEv"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "bpb-pages--panel.pages.dev",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                    },
+                    "path": "/QyRM90niANJ5wj8q?ed=2560"
+                }
+            },
+            "tag": "prox_19"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "[2a06:98c1:3120::3]",
+                        "port": 2087,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "randomized",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "BPB-PAgEs--pAnel.Pages.Dev"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "bpb-pages--panel.pages.dev",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                    },
+                    "path": "/vN8g96cx7zj3lOmz?ed=2560"
+                }
+            },
+            "tag": "prox_20"
+        },
+        {
+            "protocol": "vless",
+            "settings": {
+                "vnext": [
+                    {
+                        "address": "104.18.153.2",
+                        "port": 2087,
+                        "users": [
+                            {
+                                "encryption": "none",
+                                "flow": "",
+                                "id": "89b3cbba-e6ac-485a-9481-976a0415eab9",
+                                "level": 8,
+                                "security": "auto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "ws",
+                "security": "tls",
+                "sockopt": {
+                    "dialerProxy": "fragment",
+                    "tcpNoDelay": true
+                },
+                "tlsSettings": {
+                    "allowInsecure": false,
+                    "fingerprint": "randomized",
+                    "alpn": [
+                        "h2",
+                        "http/1.1"
+                    ],
+                    "serverName": "bPb-PageS--PaNEl.PaGEs.DEV"
+                },
+                "wsSettings": {
+                    "headers": {
+                        "Host": "bpb-pages--panel.pages.dev",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+                    },
+                    "path": "/aDoVHpBaXjwtQEqz?ed=2560"
+                }
+            },
+            "tag": "prox_21"
+        },
+        {
+            "tag": "fragment",
+            "protocol": "freedom",
+            "settings": {
+                "fragment": {
+                    "packets": "tlshello",
+                    "length": "100-200",
+                    "interval": "5-10"
+                }
+            },
+            "streamSettings": {
+                "sockopt": {
+                    "tcpKeepAliveIdle": 100,
+                    "tcpNoDelay": true
+                }
+            }
+        },
+        {
+            "protocol": "dns",
+            "tag": "dns-out"
+        },
+        {
+            "protocol": "freedom",
+            "settings": {
+                "domainStrategy": "UseIP"
+            },
+            "tag": "direct"
+        },
+        {
+            "protocol": "blackhole",
+            "settings": {
+                "response": {
+                    "type": "http"
+                }
+            },
+            "tag": "block"
+        }
+    ],
+    "policy": {
+        "levels": {
+            "8": {
+                "connIdle": 300,
+                "downlinkOnly": 1,
+                "handshake": 4,
+                "uplinkOnly": 1
+            }
+        },
+        "system": {
+            "statsOutboundUplink": true,
+            "statsOutboundDownlink": true
+        }
+    },
+    "routing": {
+        "domainStrategy": "IPIfNonMatch",
+        "rules": [
+            {
+                "inboundTag": [
+                    "dns-in"
+                ],
+                "outboundTag": "dns-out",
+                "type": "field"
+            },
+            {
+                "ip": [
+                    "8.8.8.8"
+                ],
+                "outboundTag": "direct",
+                "port": "53",
+                "type": "field"
+            },
+            {
+                "balancerTag": "all",
+                "type": "field",
+                "ip": [
+                    "0.0.0.0/0",
+                    "::/0"
+                ]
+            }
+        ],
+        "balancers": [
+            {
+                "tag": "all",
+                "selector": [
+                    "prox"
+                ],
+                "strategy": {
+                    "type": "leastPing"
+                }
+            }
+        ]
+    },
+    "observatory": {
+        "probeInterval": "30s",
+        "probeURL": "https://api.github.com/_private/browser/stats",
+        "subjectSelector": [
+            "prox"
+        ],
+        "EnableConcurrency": true
+    },
+    "stats": {}
+}
+
+
 vmess://a4af6fa2-264f-4ddd-8718-246dc999386b@173.245.58.41:80?encryption=auto&host=39238319310964543920519489701900.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&path=%2FV2LINE-TELEGRAM-CHANNEL-VMESS-WS&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@[2a06:98c1:3121::6]:443?encryption=auto&host=aveiror.com&path=%2Flinkvws&security=tls&sni=aveiror.com&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20%20(2)
 vmess://62aa5f80-0328-4004-a375-7f5a59df4022@[2606:4700:3036::6815:5ea8]:443?encryption=auto&host=hms19.best-tizi.top&path=%2Flinkws&security=tls&sni=hms19.best-tizi.top&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%0APowered%20by%20YEBEKHE%20%20(3)
