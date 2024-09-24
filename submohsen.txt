@@ -1,4 +1,6 @@
+vless://873c509a-550a-489a-ac1f-c887a4c133b2@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#@UnlimitedDev-Link1
 
+vless://873c509a-550a-489a-ac1f-c887a4c133b2@iranserver.com:80?security=none&sni=join-to.unlimiteddev.community&fp=chrome&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&host=join-to.unlimiteddev.Community.&encryption=none#@UnlimitedDev-Link2
 vmess://edbb1059-1633-4271-b66e-ed4fba47a1bf@188.114.96.5:443?encryption=auto&host=linde06.indiavideo.sbs&path=%2Flinkws&security=tls&sni=linde06.indiavideo.sbs&type=ws#%F0%9F%87%A7%F0%9F%87%B7BR(AzadNet.t.me)_0032
 vmess://edbb1059-1633-4271-b66e-ed4fba47a1bf@188.114.97.7:443?encryption=auto&host=linde06.indiavideo.sbs&path=%2Flinkws&security=tls&sni=linde06.indiavideo.sbs&type=ws#%F0%9F%87%A7%F0%9F%87%B7BR(AzadNet.t.me)_0039
 vmess://edbb1059-1633-4271-b66e-ed4fba47a1bf@188.114.99.134:443?encryption=auto&host=linde06.indiavideo.sbs&path=%2Flinkws&security=tls&sni=linde06.indiavideo.sbs&type=ws#%F0%9F%87%A7%F0%9F%87%B7BR(AzadNet.t.me)_0042
