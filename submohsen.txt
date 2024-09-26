@@ -1,4 +1,8 @@
 
+
+vless://92d37260-cf51-437e-a3ac-9eb70cce60b5@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#@UnlimitedDev-Link1
+
+vless://92d37260-cf51-437e-a3ac-9eb70cce60b5@iranserver.com:80?security=none&sni=join-to.unlimiteddev.community&fp=chrome&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&host=join-to.unlimiteddev.Community.&encryption=none#@UnlimitedDev-Link2
 vless://a5ff380f-a4a5-48fa-a652-350efdf09e2a@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#@UnlimitedDev-Link1
 
 vless://a5ff380f-a4a5-48fa-a652-350efdf09e2a@iranserver.com:80?security=none&sni=join-to.unlimiteddev.community&fp=chrome&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&host=join-to.unlimiteddev.Community.&encryption=none#@UnlimitedDev-Link2
