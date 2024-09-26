@@ -1,4 +1,6 @@
+vless://24cd7f26-280d-4127-a31e-3cf7deef971f@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#@UnlimitedDev-Link1
 
+vless://24cd7f26-280d-4127-a31e-3cf7deef971f@iranserver.com:80?security=none&sni=join-to.unlimiteddev.community&fp=chrome&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&host=join-to.unlimiteddev.Community.&encryption=none#@UnlimitedDev-Link2
 vless://65fbc79e-0ce0-49a5-85f9-ee76884a2dbb@speedtest.net:443?path=%2F%40melov2ray%2Fws%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=i-am-melo.com&fp=firefox&type=ws&sni=speedtest.net#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
 vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=119f3a0b.chikiy123w.pages.dev&fp=randomized&type=ws&sni=119f3a0b.chikiy123w.pages.dev#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
