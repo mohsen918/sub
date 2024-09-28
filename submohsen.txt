@@ -1,3 +1,6 @@
+vless://df6fffa2-16c8-4469-977b-a1e4739aeb96@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#@UnlimitedDev-Link1
+
+
 hysteria2://yVdMahZlkkgk@h2.88981401.xyz:443/?sni=hy2.55994421.xyz#%F0%9D%90%88%F0%9D%90%91%F0%9D%90%82%F0%9D%90%8F%0A%40Ln2Ray%20%C2%A7%20hy2%2Bech
 
 vless://92d37260-cf51-437e-a3ac-9eb70cce60b5@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#@UnlimitedDev-Link1
