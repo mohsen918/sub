@@ -1,3 +1,8 @@
+vless://24151688-263d-4fae-864f-1f095e6d1560@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#@UnlimitedDev-Link1
+
+vless://24151688-263d-4fae-864f-1f095e6d1560@iranserver.com:80?security=none&sni=join-to.unlimiteddev.community&fp=chrome&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&host=join-to.unlimiteddev.Community.&encryption=none#@UnlimitedDev-Link2
+
+
 vless://13aee024-86a7-435e-863f-f5799635e8c0@speedtest.net:443?security=tls&sni=speedtest.net&type=ws&path=/Telegram:@vmessorg-Telegram:@vmessorg-Telegram:@vmessorg?ed%3D8080&host=http.www.speedtest.net.fast.com.google.com.vmessorg.ir.&encryption=none#vmessorg--
 
 
