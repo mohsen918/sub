@@ -1,3 +1,26 @@
+
+vless://cd7c166b-f345-4a6c-8f04-3aa0b267ba3b@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow2.cooltechdev.ir&security=none#SERVER2
+vless://fb783e88-49c5-4a1f-90ee-f57f3088140b@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow15.cooltechdev.ir&security=none#SERVER15
+vless://95cd93f6-145b-4484-b6fc-fd0db790d58e@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow6.cooltechdev.ir&security=none#SERVER6
+vless://a507042d-f50a-42ee-8008-c3c299f4d658@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow1.cooltechdev.ir&security=none#SERVER1
+vless://7f1cff3f-9c6b-40d5-ab69-f221a8087334@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow3.cooltechdev.ir&security=none#SERVER3
+vless://862fd86a-b1a2-44ad-bdfb-6faa9d2d09c7@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow4.cooltechdev.ir&security=none#SERVER4
+vless://b1fa0b9e-3049-465b-837b-f4a4678bf3f1@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow5.cooltechdev.ir&security=none#SERVER5
+vless://95cd93f6-145b-4484-b6fc-fd0db790d58e@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow6.cooltechdev.ir&security=none#SERVER6
+vless://9d1a52a3-faa1-4d95-9b51-d362d19c5769@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow7.cooltechdev.ir&security=none#SERVER7
+vless://5728059e-1726-4273-a304-edd6145c10cc@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow8.cooltechdev.ir&security=none#SERVER8
+vless://bad16921-82a5-4b9f-83e8-2863a2a06528@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow9.cooltechdev.ir&security=none#SERVER9
+vless://cd53a6b1-c55c-4150-8707-b43bee19675e@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow10.cooltechdev.ir&security=none#SERVER10
+vless://6c40b7d3-e062-4b7f-b0e4-7bb2803f0cda@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow11.cooltechdev.ir&security=none#SERVER11
+vless://c7fd1ae0-19c0-48ff-b487-cebcb1308b12@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow12.cooltechdev.ir&security=none#SERVER12
+vless://b00052b1-a265-4aba-b81d-895fe38e4e87@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow13.cooltechdev.ir&security=none#SERVER13
+vless://0969b28e-3093-49ca-b926-fbdcd8f6ecbc@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow14.cooltechdev.ir&security=none#SERVER14
+vless://480dd507-2e59-4506-828a-4350760f2966@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow16.cooltechdev.ir&security=none#SERVER16
+vless://e725b166-696a-45b9-b3d4-dd06d10df8ac@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow17.cooltechdev.ir&security=none#SERVER17
+vless://f73575ca-c004-4213-9d22-37aa3ed05d8a@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow18.cooltechdev.ir&security=none#SERVER18
+vless://acc0c70c-2895-4f8f-903a-a86c85baee45@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow19.cooltechdev.ir&security=none#SERVER19
+vless://25d7f991-42ea-46b1-b6c1-d5289c61cbcd@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow20.cooltechdev.ir&security=none#SERVER20
+vless://6c40b7d3-e062-4b7f-b0e4-7bb2803f0cda@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow11.cooltechdev.ir&security=none#SERVER11
 vmess://af107203-1679-4d7e-cd40-2ece097a0613@181.215.6.181:80?encryption=auto&path=%2F80&type=ws#mohsen%20
 
 vless://32f09b70-d2f7-11ee-abda-00505603e70d@172.67.158.12:443?flow=&host=st-gb-1.brocdn.com&path=%2Fwebsocket&security=tls&sni=st-gb-1.brocdn.com&type=ws#%E2%98%AC%20SH%CE%9E%D0%AFVIN%E2%84%A2%20%20(3)
