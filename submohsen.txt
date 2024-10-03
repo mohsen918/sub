@@ -1,3 +1,7 @@
+vless://529efef8-e541-4094-b3ab-f118c5866006@speedtest.net:443?security=tls&sni=speedtest.net&fp=firefox&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&host=TEL.UNLIMITEDDEV.http.www.speedtest.net.fast.com.unlimiteddev.ir.&encryption=none#@UnlimitedDev-Link1
+
+vless://529efef8-e541-4094-b3ab-f118c5866006@iranserver.com:80?security=none&sni=join-to.unlimiteddev.community&fp=chrome&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D8880&host=join-to.unlimiteddev.Community.&encryption=none#@UnlimitedDev-Link2
+
 vless://b106570b-6b5f-40c1-8081-03093fbe8fa5@[2a0b:4140:659a:6::6]:33000?type=grpc&serviceName=b&authority=&security=reality&pbk=JrN7nZEbUeBJFHTAKwtz5Dmd10SGgA8UCHEMLA2xOg0&fp=chrome&sni=www.speedtest.net&sid=be7f13dd&spx=%2F#RiflVPN-202-free78-channel-IPv6
 vless://cd7c166b-f345-4a6c-8f04-3aa0b267ba3b@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow2.cooltechdev.ir&security=none#SERVER2
 vless://fb783e88-49c5-4a1f-90ee-f57f3088140b@www.speedtest.net:80?type=ws&path=%2F80%2F%3Fed%3D2056&host=snow15.cooltechdev.ir&security=none#SERVER15
