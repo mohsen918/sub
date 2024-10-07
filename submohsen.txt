@@ -1,3 +1,8 @@
+vless://26b5f3b7-d97c-418e-9717-6bf3b646e9ce@live.wkrq.com:443?security=tls&sni=live.wkrq.com&fp=chrome&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=UNLIMITEDDEV.zr.ir&encryption=none#@UnlimitedDev-Link1
+
+vless://8cc005d8-02b5-41ca-8b98-eb748afbfbe8@104.17.234.114:443?security=tls&sni=UNLIMITEDDEV.unlimiteddev-vpn.com&fp=chrome&type=ws&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D8080&host=UNLIMITEDDEV.unlimiteddev-vpn.com&encryption=none#@UnlimitedDev-Link2
+
+
 vless://c816d9b3-1960-4e73-aaae-72acd12f3923@live.wkrq.com:443?security=tls&sni=live.wkrq.com&fp=firefox&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=UNLIMITEDDEV.zr.ir&encryption=none#@UnlimitedDev-Link1
 
 vless://1564a10f-86eb-4ad3-8c43-6343abc36cd8@104.17.234.114:443?security=tls&sni=UNLIMITEDDEV.unlimiteddev-vpn.com&fp=chrome&type=ws&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D8080&host=UNLIMITEDDEV.unlimiteddev-vpn.com&encryption=none#@UnlimitedDev-Link2
