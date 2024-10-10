@@ -1,3 +1,16 @@
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@valkinin.org:443?encryption=auto&host=valkinin.org&path=linkvws&security=tls&sni=valkinin.org&type=ws#VIP-1
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@v.valkinin.org:443?encryption=auto&host=v.valkinin.org&path=linkvws&security=tls&sni=v.valkinin.org&type=ws#VIP-3
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@p.powah.homes:443?encryption=auto&host=p.powah.homes&path=linkvws&security=tls&sni=p.powah.homes&type=ws#VIP-3%20(1)
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@c.hungshing.org:443?encryption=auto&host=c.hungshing.org&path=linkvws&security=tls&sni=c.hungshing.org&type=ws#Server-3
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@taitak.homes:443?encryption=auto&host=taitak.homes&path=linkvws&security=tls&sni=taitak.homes&type=ws#Server-1%20(1)
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@cs.taitak.homes:443?encryption=auto&host=cs.taitak.homes&path=linkvws&security=tls&sni=cs.taitak.homes&type=ws#Server-3%20(1)
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@kenned.homes:443?encryption=auto&host=kenned.homes&path=linkvws&security=tls&sni=kenned.homes&type=ws#Server-6%20(1)
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@mantung.homes:443?encryption=auto&host=mantung.homes&path=linkvws&security=tls&sni=mantung.homes&type=ws#Server-1%20(2)
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@b.mantung.homes:443?encryption=auto&host=b.mantung.homes&path=linkvws&security=tls&sni=b.mantung.homes&type=ws#Server-2%20(2)
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@c.mantung.homes:443?encryption=auto&host=c.mantung.homes&path=linkvws&security=tls&sni=c.mantung.homes&type=ws#Server-3%20(2)
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@e.wanchai.homes:443?encryption=auto&host=e.wanchai.homes&path=linkvws&security=tls&sni=e.wanchai.homes&type=ws#Server-5%20(2)
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@wanchai.homes:443?encryption=auto&host=wanchai.homes&path=linkvws&security=tls&sni=wanchai.homes&type=ws#Server-6%20(2)
+
 vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=iSAA1.paGEs.DEV&fp=randomized&type=ws&sni=iSaa1.PAGeS.DeV#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
 vless://90cd4a77-141a-43c9-991b-08263cfe9c10@172.66.46.249:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=79193c43.aryoovpn-5fr.pages.dev&type=ws&sni=79193c43.aryoovpn-5fr.pages.dev#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
