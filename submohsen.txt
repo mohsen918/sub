@@ -1,4 +1,32 @@
 
+vless://6e06bce4-4ba7-4a2c-a6a9-dc879f8a5996@79.127.70.87:2082?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#36u87c8t
+vless://692a80d9-a910-46f3-937e-48ad5b5d8c18@79.127.70.87:2086?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#6hpd4kq0
+vless://aabdb07f-4232-45c5-8f0e-db753d2dd688@79.127.70.87:2086?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#2q6m3d6j
+vless://a2c7d862-fd72-44c2-8d24-afaed86ed758@79.127.70.87:2086?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#n3fhzcp7
+vless://b436a81c-3e30-4a5f-82d5-aa489f1b44b1@79.127.70.123:2096?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#a08kwatc
+vless://c8a06011-56d8-49b9-98d1-6fb97d6a21af@79.127.70.87:8088?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#35ce9rzp
+vless://c5db4cdd-cc06-4889-a660-4159c5324c02@79.127.70.87:8088?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#txd9e7v9
+vless://316a49e5-1081-4c32-9beb-821b8db9d821@79.127.70.87:2082?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#ll9pubxi
+vless://62c6ca3e-fb67-4c23-89b6-d470ff0fc7a0@79.127.70.87:8088?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#wq9rvt6m
+vless://f9bd3c23-6049-4243-835a-5352c576fe76@79.127.70.87:2086?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#70e3s7od
+vless://708f9ca8-b27c-4fa4-b315-d6fb059a7165@79.127.70.123:2083?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#hgigoh4m
+vless://1056fc53-a523-45b9-b423-ab4cccba95e9@79.127.70.87:2082?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#u7zb7s4p
+vless://0ed5641b-8681-47b7-99cc-e35e682e5eb6@79.127.70.87:2086?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#cqn4yony
+vless://5a0cad79-aacf-4639-8cd2-fa84d429badf@79.127.70.87:2086?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#vift4qow
+vless://384555bf-430c-4de4-ab7b-4eaba35a4f7a@79.127.70.123:2096?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#ljffqqnd
+vless://787c47fb-d6d4-4138-923f-4d553c0a0f75@79.127.70.87:8088?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#8ssnv36f
+vless://52698b84-67ce-48f9-9bb9-71d749365035@79.127.70.87:2086?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#0d3iwvr8
+vless://bcb2fa2e-d78c-4b4e-904b-362720be49d5@79.127.70.123:2083?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#8bqn2laf
+vless://df203f30-2804-4ea2-a5c7-69d2fdf68efb@79.127.70.123:443?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#ft2yyxn7
+vless://8cdfc0bd-1f34-4ea5-ab9b-05fa30b884e8@79.127.70.123:2083?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#3kccloy0
+vless://3fb99ecc-29f8-4358-86e5-d4081ce748f6@79.127.70.123:2053?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#e4bwyrtv
+vless://8eddf813-2f5d-400c-9028-3be138baeb30@79.127.70.123:443?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#ikjesufy
+vless://690d7642-b2b9-4081-b227-67273fc57e7b@79.127.70.123:2083?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#ftpw9q47
+vless://cb191a02-615a-466b-93f9-6cff7303dade@79.127.70.123:443?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#ni3edyxb
+vless://cbdcf445-27c0-447d-820d-48c1174585ca@79.127.70.123:2053?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#71l55nnd
+vless://979aedb2-78e8-4fce-b032-07342323a49b@79.127.70.123:2053?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#occbhdxj
+
+
 vless://e820d158-fb07-4baa-b82a-244736641ae0@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=barkatc1.ir&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
 
 vless://d95a0e83-902d-4396-b2af-5c5023f40168@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=barkatc2.ir&type=ws#V2rayNG+x+%7C+%D9%87%D9%85%D9%87+%D8%A7%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7
