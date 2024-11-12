@@ -81,7 +81,6 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#aa
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.180:443#05
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@205.134.180.146:443#56
 vless://f6b1bae8-91f0-4c05-a923-d7231d9078ea@172.66.47.41:443?path=%2F&security=tls&encryption=none&host=pardazeshvpn-tg88.pages.dev&type=ws&sni=pardazeshvpn-tg88.pages.dev#fe
-vless://d33b5124-67df-4fe0-b415-45cc97564f0a@172.66.46.254:443?path=%2F&security=tls&encryption=none&host=pardazeshvpn-tg101.pages.dev&type=ws&sni=pardazeshvpn-tg101.pages.dev#e1
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#39
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.134.94.168:3389#7b
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.74.202:7002#67
