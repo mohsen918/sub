@@ -1,3 +1,13 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3anZISEY1U2FGb2I=@78.153.131.96:443#34%F0%9F%8C%80%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI=@92.38.171.215:31348#ES%F0%9F%87%AA%F0%9F%87%B8%2B%7C%2B92.38.171.215-31348%2B%7C%2B123.21ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI=@92.38.171.215:31348#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI=@92.38.171.215:31348#%F0%9F%87%AA%F0%9F%87%B8ES-92.38.171.215-0354
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI=@92.38.171.215:31348#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3anZISEY1U2FGb2I=@78.153.131.96:443#%F0%9F%87%B1%F0%9F%87%B9LT%20%7C%20%40OutlineReleasedKey
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowRFk4ekJqdHhQM1k=@85.208.139.203:443#%F0%9F%94%A5Join%2BTelegram%3A%40Farah_VPN%F0%9F%9F%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEa0E3T3hTYWJSdHRQSnpPOUNjZjdM@162.243.245.151:31100#%F0%9F%87%BA%F0%9F%87%B8%5Bopenproxylist.com%5D
+
+
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@172.67.141.140:443?encryption=none&security=tls&sni=8iZCpZfLhZz4bvC0fw15f5O126r-wgPg.HEKoP71365.WorKeRs.Dev&alpn=http%2F1.1&type=ws&host=8izcpzflhzz4bvc0fw15f5o126r-wgpg.hekop71365.workers.dev&path=%2FSxBFfgSuVIcA96TR%3Fed%3D2560#VL-0513-051
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?encryption=none&security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&type=grpc#VL-0508-064
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.ndeso.web.id:443?encryption=none&security=tls&sni=freexxx.ndeso.web.id&type=ws&host=freexxx.ndeso.web.id&path=%2FFree-CF-Proxy-AT33#VL-0505-03
