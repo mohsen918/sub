@@ -1,3 +1,22 @@
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#%F0%9F%87%B3%F0%9F%87%B1%F0%9F%86%94%20@iphone02016vpn
+hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%86%94%20@iphone02016vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDaUxpWXpFZnVqNzlFSzZvc0kxTmhq@217.216.108.28:45435#%D8%A2%D9%84%D9%85%D8%A7%D9%86
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppNUxOZVRPaGEzZWNJczl6azZ3V1lI@217.216.72.101:3062#%F0%9F%86%94%20@iphone02016vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXUEhoZ2ZXWE1TRHdKS2FSYXl6MmlF@72.60.222.160:26600#%F0%9F%86%94%20@iphone02016vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQY0ZGc1JnR3NKdUo4SDBhOFI1cGNV@72.60.220.83:11709#%F0%9F%86%94%20@iphone02016vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWlJiT0F5NFNxRmlZUFZQVHVLS1Uz@88.222.242.121:12708#%F0%9F%86%94%20@iphone02016vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZaDVTOWUxdWlyN0IxdUFheUc3NFd3@88.222.215.142:46036#%F0%9F%86%94%20@iphone02016vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkSTZNNDdoT0J0WjRjbm9HNHF6ak9j@147.93.103.76:50805#%F0%9F%86%94%20@iphone02016vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOTJNZW5jWW1GNjNxVUdtMGplaWth@31.97.110.182:25179#%F0%9F%86%94%20@iphone02016vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0NHZ2YWE2Q1FyUnk5NHpPT0tTRnMw@148.230.122.96:6786#%F0%9F%86%94%20@iphone02016vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmdlBRUEdXbU9PZ003NmN1OWc5c29I@72.60.25.55:2016#%F0%9F%86%94%20@iphone02016vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMzRvajNnVkxMWmtINmhTSVdxUDdO@31.220.61.3:45523#%F0%9F%86%94%20@iphone02016vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYWG52Y2NYR0VPNFd5WWRBNk83ckEx@168.231.125.207:50638#%F0%9F%86%94%20@iphone02016vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptMnp6eFZCNzdSTUx0SlJBSGhNekpQ@72.61.213.224:2267#%F0%9F%86%94%20@iphone02016vpn%20%D8%A7%D9%86%D8%AF%D9%88%D9%86%D8%B2%DB%8C
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUnQ4a0lZc0lmS003NzRGYVRBNGE5@72.61.119.59:20113#%F0%9F%86%94%20@iphone02016vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJTjZXNTkyY1lqZnJHNHJEZUtTQWds@72.60.104.131:32542#%F0%9F%86%94%20@iphone02016vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMUlhempQNTVsalQ3clBvbXBxQVMw@72.60.104.135:42654#%F0%9F%86%94%20@iphone02016vpn
+
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#%F0%9F%87%B3%F0%9F%87%B1
 
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#%F0%9F%87%B3%F0%9F%87%B1
